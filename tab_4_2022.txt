@@ -1,0 +1,10 @@
+9
+IvanovAB Olymp(1) 24
+PetrovUA C/C++(2) 20
+IvanovAB C/C++(2) 20
+NikolaevKsU C/C++(2) 18
+KonstantinovShM Scratch(2) 24
+KuznetsovDEvg Scratch(2) 26
+LeonidovSP Python(2) 18
+MikhailovIYu Python(2) 16
+PetrovUA Python(2) 18

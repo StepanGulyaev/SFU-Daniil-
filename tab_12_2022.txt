@@ -1,0 +1,7 @@
+5
+IvanovAB Python(1) 15
+PetrovUA EGE 10
+IvanovAB EGE 20
+NikolaevKsU C/C++(2) 18
+KonstantinovShM Games(1) 24
+
